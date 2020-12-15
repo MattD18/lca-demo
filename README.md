@@ -15,3 +15,8 @@ I've also put together a barebones demo of LCAs changing over training using str
 ```
 streamlit lca_demo_app.py
 ```
+
+# Blog Post
+
+For a more in-depth write-up, check out my blog-post on Medium: 
+https://medium.com/analytics-vidhya/introduction-to-loss-change-allocation-afca065be618
